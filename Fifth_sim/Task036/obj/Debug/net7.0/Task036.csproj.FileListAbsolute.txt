@@ -1,0 +1,15 @@
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.csproj.AssemblyReference.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.AssemblyInfoInputs.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.AssemblyInfo.cs
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.csproj.CoreCompileInputs.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\bin\Debug\net7.0\Task036.exe
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\bin\Debug\net7.0\Task036.deps.json
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\bin\Debug\net7.0\Task036.runtimeconfig.json
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\bin\Debug\net7.0\Task036.dll
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\bin\Debug\net7.0\Task036.pdb
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.dll
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\refint\Task036.dll
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.pdb
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\Task036.genruntimeconfig.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Fifth_sim\Task036\obj\Debug\net7.0\ref\Task036.dll

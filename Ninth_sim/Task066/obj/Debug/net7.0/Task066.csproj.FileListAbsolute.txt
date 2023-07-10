@@ -1,0 +1,15 @@
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\bin\Debug\net7.0\Task066.exe
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\bin\Debug\net7.0\Task066.deps.json
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\bin\Debug\net7.0\Task066.runtimeconfig.json
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\bin\Debug\net7.0\Task066.dll
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\bin\Debug\net7.0\Task066.pdb
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.csproj.AssemblyReference.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.AssemblyInfoInputs.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.AssemblyInfo.cs
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.csproj.CoreCompileInputs.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.dll
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\refint\Task066.dll
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.pdb
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\Task066.genruntimeconfig.cache
+C:\Users\Watslaw\Documents\SIM C# NEW\Ninth_sim\Task066\obj\Debug\net7.0\ref\Task066.dll
